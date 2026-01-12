@@ -1,0 +1,8 @@
+ID_Modal;Modal;Capacidade_Passageiros;Tipo_Modal;Nivel_Emissao_Base
+1;Ônibus;80;Coletivo;0.6
+2;Metrô;1200;Coletivo;0.2
+3;Trem;1500;Coletivo;0.25
+4;BRT;160;Coletivo;0.4
+5;Bicicleta;1;Individual;0.0
+6;Carro;5;Individual;0.9
+7;Moto;2;Individual;0.7

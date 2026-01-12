@@ -1,0 +1,5 @@
+ID_Clima;Condicao_Climatica;Intensidade;Impacto_Trafego
+1;Ensolarado;0.1;0.0
+2;Chuva;0.4;0.15
+3;Chuva Forte;0.8;0.35
+4;Neblina;0.6;0.25

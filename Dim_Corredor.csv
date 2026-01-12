@@ -1,0 +1,11 @@
+ID_Corredor;Nome_Corredor;Tipo_Corredor;Capacidade_Veiculos_Hora;Extensao_km
+1;Corredor 1;Arterial;2485;12.7
+2;Corredor 2;Local;1569;19.8
+3;Corredor 3;Arterial;3191;16.8
+4;Corredor 4;Arterial;2315;12.3
+5;Corredor 5;Expresso;3653;22.6
+6;Corredor 6;Expresso;3233;7.5
+7;Corredor 7;Expresso;2015;12.3
+8;Corredor 8;Local;1755;14.7
+9;Corredor 9;Arterial;3124;17.6
+10;Corredor 10;Arterial;1984;28.1
