@@ -177,6 +177,7 @@ DIVIDE (
 Interpretação: quanto maior o valor, maior a eficiência do sistema de transporte.
 
 📅 Indicadores Temporais (YoY / MoM)
+
 Passageiros YoY
 Passageiros YoY =
 CALCULATE (
